@@ -1,0 +1,1 @@
+not speex-ns-module,this is the rnn-ns 
